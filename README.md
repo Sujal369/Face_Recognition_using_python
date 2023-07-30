@@ -14,7 +14,7 @@ you do face recognition on a folder of images from the command line!
 1. installed python version 3.11
 2. pip install cv2
 3. pip install numpy opencv-python
-Thank you for watching for visiting 
+
 
 
 
